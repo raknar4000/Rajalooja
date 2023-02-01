@@ -11,4 +11,4 @@
 
 ## PROJEKTI EESMÄRK
 
-:🧗: 
+🧗
