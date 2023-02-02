@@ -16,6 +16,12 @@
 <br>
 <br>
 
+##  TÖÖVAHENDID
+
+<P> Suhtluskanal: Slack </p>
+<p> Wireframe: Figma</p>
+<p> Google </p>
+
 
 # Prototüüp tahvlil
 
