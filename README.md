@@ -36,6 +36,7 @@
 <br>
 
 ### LOGO
+
 ![title](images/MicrosoftTeams-image%20(1).png)
 
 
@@ -43,6 +44,47 @@
 ## FIGMA WIREFRAME
 
 [FIGMA](https://www.figma.com/file/MdoGS7gNFriuYr2DFZI0VB/Ronimine?node-id=0%3A1&t=IYwif8de2gi2zHQJ-0)
+
+---
+---
+
+## Eneseanalüüs
+1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
+
+2. Üks pehme oskus, mida õppisin ja endas arendasin
+
+3. Üks tehniline oskus, mida õppisin ja endas arendasin
+
+<br>
+
+- Oliver Õunaid
+1.  
+2.  
+3. 
+- Riivo Matt
+1. 
+2. 
+3. 
+- Ragnar Lall
+1. 
+2. Tiimitöö
+3. Figma
+- Tanel Põldma
+1. 
+2. 
+3. 
+- Kevin Kruuser
+1. 
+2. 
+3. 
+- Kairi Laidmaa
+1. 
+2. 
+3. 
+
+
+
+
 
 
 
