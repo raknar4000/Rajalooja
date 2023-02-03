@@ -70,7 +70,7 @@
 2. 
 3. 
 - Ragnar Lall
-1. 
+1. Luua esialgu läbimõeldud visuaalne plaan
 2. Tiimitöö
 3. Figma
 - Tanel Põldma
