@@ -78,9 +78,9 @@
 2. Meeskonnatöö jaotus
 3. Figma
 - Kevin Kruuser
-1. 
-2. 
-3. 
+1. Seda kuidas teha tiimis tööd
+2. Suhtlust tiimis ja tööde jaotust
+3. Figmat õppisin kasutama
 - Kairi Laidmaa
 1. Disaini lahendused
 2. Töö meeskonnas
