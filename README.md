@@ -15,6 +15,8 @@
 
 🧗
 
+## Eesmärk on jõuda reaalse tooteni, mis aitab arendada eesti ronimist ja ronijaid nii laste kui täiskasvanute tasemel. Asendades kallid lahendused lihtsa ja odavama alternatiiviga.
+
 <br>
 <br>
 
@@ -72,17 +74,17 @@
 2. Tiimitöö
 3. Figma
 - Tanel Põldma
-1. 
-2. 
-3. 
+1. Rakendan kogemust
+2. Meeskonnatöö jaotus
+3. Figma
 - Kevin Kruuser
 1. 
 2. 
 3. 
 - Kairi Laidmaa
-1. 
-2. 
-3. 
+1. Disaini lahendused
+2. Töö meeskonnas
+3. Figma
 
 
 
