@@ -7,6 +7,8 @@
 - Kevin Kruuser
 - Kairi Laidmaa
 
+![title](images/tiim.png)
+
 ***
 
 ## PROJEKTI EESMÄRK
@@ -18,7 +20,7 @@
 
 ##  TÖÖVAHENDID
 
-<P> Suhtluskanal: Slack </p>
+<P> Suhtluskanal: Teams </p>
 <p> Wireframe: Figma</p>
 <p> Google </p>
 
