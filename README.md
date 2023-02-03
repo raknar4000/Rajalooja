@@ -76,9 +76,9 @@
 2. 
 3. 
 - Kevin Kruuser
-1. 
-2. 
-3. 
+1. Seda kuidas teha tiimis tööd
+2. Suhtlust tiimis ja tööde jaotust
+3. Figmat õppisin kasutama
 - Kairi Laidmaa
 1. 
 2. 
