@@ -68,9 +68,9 @@
 2.  
 3. 
 - Riivo Matt
-1. 
-2. 
-3. 
+1. Tehnilise dokumentatsiooni otsimine.
+2. Meeskonnatöö, suhtlemine.
+3. Figma, Powerpoint
 - Ragnar Lall
 1. Luua esialgu läbimõeldud visuaalne plaan
 2. Tiimitöö
