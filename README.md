@@ -8,6 +8,8 @@
 - Kairi Laidmaa
 
 ![title](images/tiim.png)
+![title](images/MicrosoftTeams-image%20(3).png)
+
 
 ***
 
