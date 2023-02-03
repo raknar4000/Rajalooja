@@ -8,7 +8,7 @@
 - Kairi Laidmaa
 ![teams](https://user-images.githubusercontent.com/91655890/216557399-6b7131f7-a763-4f55-b0b6-183f1a51654e.png)
 ![title](images/tiim.png)
-![title](images/tiiiim.png)
+
 
 
 ***
